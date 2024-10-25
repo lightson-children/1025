@@ -1,3 +1,3 @@
 function test() {
-  Logger.log('Hello GitHub Actions Deploy!');
+  Logger.log('TEST 1025');
 }
