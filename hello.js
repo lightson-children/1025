@@ -1,3 +1,3 @@
-function goodbye() {
-  Logger.log('Good bye, Tokyo!');
+function greeting(name) {
+  Logger.log(`Hello, ${name}!`);
 }
